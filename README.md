@@ -1,3 +1,3 @@
-# Thos code is only for pretest
+# This code is only for pretest
 
 Part 2 question 4
